@@ -2,6 +2,7 @@
 I'm Yiyi, a beginner at software and programming stuff. I'm currently learning to master python and become more proficient in CS in general. I hope to work on some projects in the future when I have slightly more skill in knowledge!
 
 Here's how to reach me:
+
   My emails: bluepaper1122@gmail.com and bluewolf9250@gmail.com
 <!--
 **BluePaper1122/BluePaper1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
