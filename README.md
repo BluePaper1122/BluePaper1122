@@ -4,6 +4,7 @@ I'm Yiyi, a beginner at software and programming stuff. I'm currently learning t
 Here's how to reach me:
 
   My emails: bluepaper1122@gmail.com and bluewolf9250@gmail.com
+  
   My linkedin: https://www.linkedin.com/in/yiyi-sun-5515292ba/
 <!--
 **BluePaper1122/BluePaper1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
