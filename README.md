@@ -3,7 +3,7 @@ I'm Yiyi, a beginner at software and programming stuff. I'm currently learning t
 
 Here's how to reach me:
 
-  My emails: bluepaper1122@gmail.com and bluewolf9250@gmail.com
+  My emails: bluepaper1122@gmail.com and bluewolf9250@gmail.com, or you can reach me with my school email: ys187@rice.edu
   
   My linkedin: https://www.linkedin.com/in/yiyi-sun-5515292ba/
 <!--
