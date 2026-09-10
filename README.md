@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Yiyi, a beginner at software and programming stuff. I'm currently learning to master python and become more proficient in CS in general. I hope to work on some projects in the future when I have slightly more skill in knowledge!
+I'm Yiyi, and I am interested in software development and programming. I'm currently utilizing python to create projects and become more proficient in CS in general.
 
 Here's how to reach me:
 
