@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Yiyi, and I am interested in software development and programming. I'm currently utilizing python and Golang to create projects and become more proficient in CS in general.
+I'm Yiyi, and I am interested in software development and programming. I'm currently utilizing python and Golang to create projects.
 
 Here's how to reach me:
 
